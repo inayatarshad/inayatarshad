@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Inayat Arshad</h1>
 <h3 align="center">A passionate developer from Pakistan💻</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🌱 I’m currently learning **Networking & Security in Google Cloud**
-
-- 💬 Ask me about **Networking, Social Engineering👤💰, Cybersecurity🤖**
+🌱 Currently learning Networking & Security in Google Cloud
+🤖 Passionate about Cybersecurity, Social Engineering, and Red Teaming
+🧠 Actively exploring Artificial Intelligence (AI), with a strong focus on Generative AI (GenAI) for security automation, threat detection, and intelligent decision-making
+🧬 Interested in how AI-powered tools like LLMs, anomaly detectors, and deep learning models are transforming cyber defense strategies
+🔍 Experimenting with AI-based malware analysis, phishing detection, and automated penetration testing
+💬 Ask me about networking, ethical hacking, AI in cybersecurity, or how GenAI is shaping the future of digital security
+📚 Lifelong learner | 🛡️ Secure by design | ⚙️ Building smart systems
 
 - 📫 How to reach me **enayyat156@gmail.com**
 
