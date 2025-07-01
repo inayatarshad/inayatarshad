@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **enayyat156@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ inayat-arshad-9a325a278]
+- 📄 Know about my experiences [https://www.linkedin.com/in/inayat-arshad/]
 
 - ⚡ Fun fact **Expert pancake flipper🍳**
 
