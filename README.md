@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there, I’m Inayat (annie) 👋
 
-<!--
-**inayatarshad/inayatarshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an AI researcher and developer who enjoys turning research ideas into tools people can use. My work spans multilingual NLP, trustworthy AI, and full-stack applications.
 
-Here are some ideas to get you started:
+### ✨ A few things I’ve built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **URTOX** — a dataset for detecting toxic spans in Urdu text.
+- **[MUTEX](https://arxiv.org/abs/2603.05057)** — an Urdu toxic-span detection framework built using the URTOX dataset.
+- **[MorphoLens](https://morpholens-app.vercel.app/)** — a tool for finding inconsistencies in linguistic data.
+- **[LACUNA](https://research-gap-engine.vercel.app/)** — a research gap explorer for language technologies.
+- **[TRUST-X](https://doi.org/10.1109/ICET66147.2025.11321422)** — published research on explainable reinforcement learning for UAV control.
+
+
+### 🛠️ Tech I work with
+
+**Python · TypeScript · PyTorch · Hugging Face · FastAPI · Next.js · PostgreSQL**
+
+### 🌱 Currently curious about
+
+Making AI systems more reliable, understandable, and useful across languages.
+
+### 📫 Connect with me
+
+- [ResearchGate](https://www.researchgate.net/profile/Inayat-Arshad)
+- [LinkedIn](https://www.linkedin.com/in/inayat-arshad/)
+- [GitHub](https://github.com/inayatarshad)
