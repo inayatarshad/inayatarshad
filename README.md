@@ -4,7 +4,7 @@ I’m an AI researcher and developer who enjoys turning research ideas into tool
 
 ### ✨ A few things I’ve built
 
-- **URTOX** — a dataset for detecting toxic spans in Urdu text.
+- **[URTOX](https://toxic-span-detection-urdu.vercel.app/)** -- a dataset for detecting toxic spans in Urdu text.
 - **[MUTEX](https://arxiv.org/abs/2603.05057)** — an Urdu toxic-span detection framework built using the URTOX dataset.
 - **[MorphoLens](https://morpholens-app.vercel.app/)** — a tool for finding inconsistencies in linguistic data.
 - **[LACUNA](https://research-gap-engine.vercel.app/)** — a research gap explorer for language technologies.
