@@ -23,4 +23,3 @@ Making AI systems more reliable, understandable, and useful across languages.
 
 - [ResearchGate](https://www.researchgate.net/profile/Inayat-Arshad)
 - [LinkedIn](https://www.linkedin.com/in/inayat-arshad/)
-- [Portfolio](https://inayat-arshad-portfolio.vercel.app)
